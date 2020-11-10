@@ -31,7 +31,7 @@ public class CountingSortPassoAPasso {
 				
 			return sequenciaInteiros;
 				
-			}
+		}
 		
 		private static String printArray(int[] array) {
 			String result = "";
